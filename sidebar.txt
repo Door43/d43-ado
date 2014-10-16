@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ado:home|Door43 (ado)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ado|d43-ado repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ado/archive/master.zip|d43-ado.zip]]
+
+**Recent Changes**
+{{changes>ns = ado}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ado|Ethnologue data]]
+
